@@ -1,1 +1,1 @@
-alert("vai corinthians");
+alert("vai coringão");
