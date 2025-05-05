@@ -1,1 +1,2 @@
-alert("vai coringão");
+
+alert("vai timão");
